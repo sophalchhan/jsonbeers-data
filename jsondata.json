@@ -1,0 +1,66 @@
+
+{
+    "beers":[
+  {
+    "id": 2,
+    "name": "Guinness Draught",
+    "type": "Stout",
+    "abv": 4.2,
+    "brewery": "Guinness Brewery",
+    "origin": "Ireland",
+    "description": "Famous for its dark color, creamy head, and roasted flavor.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Guinness_Original_Extra_Stout.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Heineken",
+    "type": "Lager",
+    "abv": 5.0,
+    "brewery": "Heineken International",
+    "origin": "Netherlands",
+    "description": "A pale lager beer with a slightly bitter taste and smooth finish.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heineken_Bottle_and_Glass.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hoegaarden",
+    "type": "Witbier",
+    "abv": 4.9,
+    "brewery": "Hoegaarden Brewery",
+    "origin": "Belgium",
+    "description": "A cloudy Belgian white beer with hints of orange peel and coriander.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hoegaarden_Beer.JPG"
+  },
+  {
+    "id": 5,
+    "name": "Sapporo Premium",
+    "type": "Lager",
+    "abv": 5.0,
+    "brewery": "Sapporo Breweries",
+    "origin": "Japan",
+    "description": "A crisp, refreshing lager with a clean finish and dry character.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sapporo_Beer_Can_and_Glass.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Corona Extra",
+    "type": "Pale Lager",
+    "abv": 4.6,
+    "brewery": "Grupo Modelo",
+    "origin": "Mexico",
+    "description": "Light-bodied with a mild flavor, often served with lime.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Corona_Extra_Bottle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chimay Blue",
+    "type": "Belgian Strong Dark Ale",
+    "abv": 9.0,
+    "brewery": "Bières de Chimay",
+    "origin": "Belgium",
+    "description": "Rich and complex with dark fruit, caramel, and spice flavors.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Chimay_Blue_Cap.jpg"
+  }
+]
+
+}
